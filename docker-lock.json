@@ -1,0 +1,16 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "maven",
+				"tag": "3.5-jdk-8",
+				"digest": "b90230c6c65fa00b3404555ad9d3a131101cef791e5583aab18ac420def7d6bb"
+			},
+			{
+				"name": "java",
+				"tag": "8-jdk-alpine",
+				"digest": "d49bf8c44670834d3dade17f8b84d709e7db47f1887f671a0e098bafa9bae49f"
+			}
+		]
+	}
+}
